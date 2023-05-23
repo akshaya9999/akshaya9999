@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a flutter app<br>🌱 I’m currently learning flutter, python, java<br>⚡ Fun fact :  I sing random songs out of the blue
+🔭 I’m currently working on a website<br>🌱 I’m currently learning javascript, tailwind, python, java<br>⚡ Fun fact :  I sing random songs out of the blue
 
 
 # 💻 Tech Stack:
